@@ -1,0 +1,24 @@
+{
+  "name": "firstproject",
+  "version": "1.0.0",
+  "description": "first project with node from openbootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/steevened/node-openbootcamp.git"
+  },
+  "keywords": [
+    "node",
+    "openbootcamp"
+  ],
+  "author": "steevened",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steevened/node-openbootcamp/issues"
+  },
+  "homepage": "https://github.com/steevened/node-openbootcamp#readme"
+}
